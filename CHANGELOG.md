@@ -1,4 +1,5 @@
 # [1.0.0-beta.2](https://github.com/leon-ai/leon/compare/1.0.0-beta.1...1.0.0-beta.2) (2019-04-24)
+
 ### Features
  - can send custom HTTP headers
   ([2685cdab](https://github.com/leon-ai/leon/commit/2685cdab07cc1a9ea418eab812e5163d2dd0da90))
